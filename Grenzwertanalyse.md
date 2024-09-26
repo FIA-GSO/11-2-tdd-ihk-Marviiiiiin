@@ -10,11 +10,11 @@ Tipp: benutzen Sie einen [Tabellengenerator für Markdown](https://www.tablesgen
 | 2 | 2,5              | 100          | 2,5                 |
 | 3 | 0                | 100          | 0                   |
 | 4 | 100              | 100          | 100                 |
-| 4 | -5               | 100          | ValueError          |
-| 5 | 1                | -100         | ValueError          |
-| 6 | "cool"           | 0            | TypeError           |
-| 7 | 10               | "cool"       | TypeError           |
-| 8 | 1000             | 100          | ValueError          |
+| 5 | -5               | 100          | ValueError          |
+| 6 | 1                | -100         | ValueError          |
+| 7 | "cool"           | 0            | TypeError           |
+| 8 | 10               | "cool"       | TypeError           |
+| 9 | 1000             | 100          | ValueError          |
 
 ### 2
 | #  | prozentwert | erwartetes Ergebnis |
